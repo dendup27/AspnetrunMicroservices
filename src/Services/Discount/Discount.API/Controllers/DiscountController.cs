@@ -2,8 +2,6 @@ using Discount.API.Entities;
 using Discount.API.Repositories;
 using Microsoft.AspNetCore.Mvc;
 using System;
-using System.Collections.Generic;
-using System.Linq;
 using System.Net;
 using System.Threading.Tasks;
 
@@ -47,7 +45,7 @@ namespace Discount.API.Controllers
         [ProducesResponseType(typeof(void), (int)HttpStatusCode.OK)]
         public async Task<ActionResult<bool>> DeleteDiscountAsync(string productName)
         {
-            return Ok(await _discountRepository.DeleteDiscount(productName));
+            return Ok(await _discountRepository.DeleteDiscountAsync(productName));
         }
     }
 }

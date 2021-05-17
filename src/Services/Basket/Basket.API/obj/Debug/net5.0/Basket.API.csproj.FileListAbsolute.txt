@@ -36,3 +36,10 @@ D:\ePIS\.NET Core Development\AspnetMicroservices\src\Services\Basket\Basket.API
 D:\ePIS\.NET Core Development\AspnetMicroservices\src\Services\Basket\Basket.API\obj\Debug\net5.0\ref\Basket.API.dll
 D:\ePIS\.NET Core Development\AspnetMicroservices\src\Services\Basket\Basket.API\obj\Debug\net5.0\Basket.API.pdb
 D:\ePIS\.NET Core Development\AspnetMicroservices\src\Services\Basket\Basket.API\obj\Debug\net5.0\Basket.API.genruntimeconfig.cache
+D:\ePIS\.NET Core Development\AspnetMicroservices\src\Services\Basket\Basket.API\bin\Debug\net5.0\Google.Protobuf.dll
+D:\ePIS\.NET Core Development\AspnetMicroservices\src\Services\Basket\Basket.API\bin\Debug\net5.0\Grpc.AspNetCore.Server.dll
+D:\ePIS\.NET Core Development\AspnetMicroservices\src\Services\Basket\Basket.API\bin\Debug\net5.0\Grpc.AspNetCore.Server.ClientFactory.dll
+D:\ePIS\.NET Core Development\AspnetMicroservices\src\Services\Basket\Basket.API\bin\Debug\net5.0\Grpc.Core.Api.dll
+D:\ePIS\.NET Core Development\AspnetMicroservices\src\Services\Basket\Basket.API\bin\Debug\net5.0\Grpc.Net.Client.dll
+D:\ePIS\.NET Core Development\AspnetMicroservices\src\Services\Basket\Basket.API\bin\Debug\net5.0\Grpc.Net.ClientFactory.dll
+D:\ePIS\.NET Core Development\AspnetMicroservices\src\Services\Basket\Basket.API\bin\Debug\net5.0\Grpc.Net.Common.dll

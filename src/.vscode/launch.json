@@ -6,7 +6,7 @@
             "request": "launch",
             "preLaunchTask": "docker-run: debug",
             "netCore": {
-                "appProject": "${workspaceFolder}/Services/Basket/Basket.API/Basket.API.csproj"
+                "appProject": "${workspaceFolder}/Services/Discount/Discount.Grpc/Discount.Grpc.csproj"
             }
         }
     ]

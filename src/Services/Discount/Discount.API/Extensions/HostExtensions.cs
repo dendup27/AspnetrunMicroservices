@@ -4,7 +4,7 @@ using Microsoft.Extensions.Hosting;
 using Microsoft.Extensions.Logging;
 using Npgsql;
 
-namespace Discount.Grpc.Extensions
+namespace Discount.API.Extensions
 {
     public static class HostExtensions
     {
