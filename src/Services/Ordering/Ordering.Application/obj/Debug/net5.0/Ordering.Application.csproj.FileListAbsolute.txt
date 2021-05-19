@@ -1,0 +1,15 @@
+D:\ePIS\.NET Core Development\AspnetMicroservices\src\Services\Ordering\Ordering.Application\bin\Debug\net5.0\Ordering.Application.deps.json
+D:\ePIS\.NET Core Development\AspnetMicroservices\src\Services\Ordering\Ordering.Application\bin\Debug\net5.0\Ordering.Application.dll
+D:\ePIS\.NET Core Development\AspnetMicroservices\src\Services\Ordering\Ordering.Application\bin\Debug\net5.0\ref\Ordering.Application.dll
+D:\ePIS\.NET Core Development\AspnetMicroservices\src\Services\Ordering\Ordering.Application\bin\Debug\net5.0\Ordering.Application.pdb
+D:\ePIS\.NET Core Development\AspnetMicroservices\src\Services\Ordering\Ordering.Application\bin\Debug\net5.0\Ordering.Domain.dll
+D:\ePIS\.NET Core Development\AspnetMicroservices\src\Services\Ordering\Ordering.Application\bin\Debug\net5.0\Ordering.Domain.pdb
+D:\ePIS\.NET Core Development\AspnetMicroservices\src\Services\Ordering\Ordering.Application\obj\Debug\net5.0\Ordering.Application.csprojAssemblyReference.cache
+D:\ePIS\.NET Core Development\AspnetMicroservices\src\Services\Ordering\Ordering.Application\obj\Debug\net5.0\Ordering.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\ePIS\.NET Core Development\AspnetMicroservices\src\Services\Ordering\Ordering.Application\obj\Debug\net5.0\Ordering.Application.AssemblyInfoInputs.cache
+D:\ePIS\.NET Core Development\AspnetMicroservices\src\Services\Ordering\Ordering.Application\obj\Debug\net5.0\Ordering.Application.AssemblyInfo.cs
+D:\ePIS\.NET Core Development\AspnetMicroservices\src\Services\Ordering\Ordering.Application\obj\Debug\net5.0\Ordering.Application.csproj.CoreCompileInputs.cache
+D:\ePIS\.NET Core Development\AspnetMicroservices\src\Services\Ordering\Ordering.Application\obj\Debug\net5.0\Ordering.Application.csproj.CopyComplete
+D:\ePIS\.NET Core Development\AspnetMicroservices\src\Services\Ordering\Ordering.Application\obj\Debug\net5.0\Ordering.Application.dll
+D:\ePIS\.NET Core Development\AspnetMicroservices\src\Services\Ordering\Ordering.Application\obj\Debug\net5.0\ref\Ordering.Application.dll
+D:\ePIS\.NET Core Development\AspnetMicroservices\src\Services\Ordering\Ordering.Application\obj\Debug\net5.0\Ordering.Application.pdb

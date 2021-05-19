@@ -1,0 +1,17 @@
+D:\ePIS\.NET Core Development\AspnetMicroservices\src\Services\Ordering\Ordering.Infrastructure\bin\Debug\net5.0\Ordering.Infrastructure.deps.json
+D:\ePIS\.NET Core Development\AspnetMicroservices\src\Services\Ordering\Ordering.Infrastructure\bin\Debug\net5.0\Ordering.Infrastructure.dll
+D:\ePIS\.NET Core Development\AspnetMicroservices\src\Services\Ordering\Ordering.Infrastructure\bin\Debug\net5.0\ref\Ordering.Infrastructure.dll
+D:\ePIS\.NET Core Development\AspnetMicroservices\src\Services\Ordering\Ordering.Infrastructure\bin\Debug\net5.0\Ordering.Infrastructure.pdb
+D:\ePIS\.NET Core Development\AspnetMicroservices\src\Services\Ordering\Ordering.Infrastructure\bin\Debug\net5.0\Ordering.Application.dll
+D:\ePIS\.NET Core Development\AspnetMicroservices\src\Services\Ordering\Ordering.Infrastructure\bin\Debug\net5.0\Ordering.Domain.dll
+D:\ePIS\.NET Core Development\AspnetMicroservices\src\Services\Ordering\Ordering.Infrastructure\bin\Debug\net5.0\Ordering.Application.pdb
+D:\ePIS\.NET Core Development\AspnetMicroservices\src\Services\Ordering\Ordering.Infrastructure\bin\Debug\net5.0\Ordering.Domain.pdb
+D:\ePIS\.NET Core Development\AspnetMicroservices\src\Services\Ordering\Ordering.Infrastructure\obj\Debug\net5.0\Ordering.Infrastructure.csprojAssemblyReference.cache
+D:\ePIS\.NET Core Development\AspnetMicroservices\src\Services\Ordering\Ordering.Infrastructure\obj\Debug\net5.0\Ordering.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\ePIS\.NET Core Development\AspnetMicroservices\src\Services\Ordering\Ordering.Infrastructure\obj\Debug\net5.0\Ordering.Infrastructure.AssemblyInfoInputs.cache
+D:\ePIS\.NET Core Development\AspnetMicroservices\src\Services\Ordering\Ordering.Infrastructure\obj\Debug\net5.0\Ordering.Infrastructure.AssemblyInfo.cs
+D:\ePIS\.NET Core Development\AspnetMicroservices\src\Services\Ordering\Ordering.Infrastructure\obj\Debug\net5.0\Ordering.Infrastructure.csproj.CoreCompileInputs.cache
+D:\ePIS\.NET Core Development\AspnetMicroservices\src\Services\Ordering\Ordering.Infrastructure\obj\Debug\net5.0\Ordering.Infrastructure.csproj.CopyComplete
+D:\ePIS\.NET Core Development\AspnetMicroservices\src\Services\Ordering\Ordering.Infrastructure\obj\Debug\net5.0\Ordering.Infrastructure.dll
+D:\ePIS\.NET Core Development\AspnetMicroservices\src\Services\Ordering\Ordering.Infrastructure\obj\Debug\net5.0\ref\Ordering.Infrastructure.dll
+D:\ePIS\.NET Core Development\AspnetMicroservices\src\Services\Ordering\Ordering.Infrastructure\obj\Debug\net5.0\Ordering.Infrastructure.pdb
